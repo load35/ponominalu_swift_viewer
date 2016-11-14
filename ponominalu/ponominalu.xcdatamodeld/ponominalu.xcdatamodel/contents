@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11542" systemVersion="16B2555" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Categories" representedClassName="Categories" syncable="YES" codeGenerationType="class">
+        <attribute name="countCategory" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="idCateogry" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="nameCategory" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="DetailEvent" representedClassName="DetailEvent" syncable="YES" codeGenerationType="class"/>
+    <elements>
+        <element name="Categories" positionX="-63" positionY="-18" width="128" height="90"/>
+        <element name="DetailEvent" positionX="-27" positionY="18" width="128" height="45"/>
+    </elements>
+</model>
